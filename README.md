@@ -1,2 +1,5 @@
-# jins
-Java in slippers
+#Java in Slippers
+
+Student Full Name:
+Student Email:
+
