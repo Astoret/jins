@@ -1,5 +1,5 @@
 #Java in Slippers
 
-Student Full Name:
+Student Full Name: Max
 
 Student Email:
