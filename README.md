@@ -1,5 +1,5 @@
 #Java in Slippers
 
-Student Full Name:
+Student Full Name: Tanya Koval
 
-Student Email:
+Student Email: tatik9210@gmail.com
